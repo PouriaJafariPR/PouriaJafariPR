@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pouria Jafari PR
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Micro Services
+- 🌱 I’m currently learning Microservices
 - 📫 Reach me by my Instagram @pouria_jafari_pr
 
 <!---
